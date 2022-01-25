@@ -8,7 +8,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw/Icon.jpg",
-            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw/Chat.json",
+            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw/hero_voice.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw/Video.mp4",
             "Best": true,
@@ -22,7 +22,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw2/Icon.jpg",
-            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw1/Chat.json",
+            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw/hero_voice.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw2/Video.mp4",
             "Best": true,
@@ -36,7 +36,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw3/Icon.jpeg",
-            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw2/Chat.json",
+            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw/hero_voice.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw3/Video.mp4",
             "Best": false,
@@ -50,7 +50,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw4/36efac6c4143b77c5190e12b1bea-zjh6.png",
-            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw3/Chat.json",
+            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw/hero_voice.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw4/I%20found%20Siren%20Head%20in%20real%20life.mp4",
             "Best": false,
@@ -64,7 +64,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw5/Icon.png",
-            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw4/Chat.json",
+            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw/hero_voice.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw5/Video.mp4",
             "Best": true,
@@ -78,7 +78,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw6/Icon.png",
-            "ChatDataUrl": " ",
+            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw/hero_voice.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw6/Video.mp4",
             "Best": true,
@@ -92,7 +92,7 @@
                 "instanceID": 0
             },
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw8/ScaryClone.jpg",
-            "ChatDataUrl": " ",
+            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/-Siren-Head/main/Raw/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw8/sans_audio.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw8/sans_video.mp4",
             "Best": true,
